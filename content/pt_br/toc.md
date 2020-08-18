@@ -1,38 +1,38 @@
-Os Doze Fatores
+Os Doze Fatores para Design
 ===============
 
-## [I. Base de Código](./codebase)
-### Uma base de código com rastreamento utilizando controle de revisão, muitos deploys
+## [I. ...](./)
+### ...
 
-## [II. Dependências](./dependencies)
-### Declare e isole as dependências
+## [II. ...](./)
+### ...
 
-## [III. Configurações](./config)
-### Armazene as configurações no ambiente
+## [III. ...](./)
+### ...
 
-## [IV. Serviços de Apoio](./backing-services)
-### Trate os serviços de apoio, como recursos ligados
+## [IV. ...](./)
+### ...
 
-## [V. Construa, lance, execute](./build-release-run)
-### Separe estritamente os builds e execute em estágios
+## [V. ...](./)
+### ...
 
-## [VI. Processos](./processes)
-### Execute a aplicação como um ou mais processos que não armazenam estado
+## [VI. ...](./)
+### ...
 
-## [VII. Vínculo de porta](./port-binding)
-### Exporte serviços por ligação de porta
+## [VII. ...](./)
+### ...
 
-## [VIII. Concorrência](./concurrency)
-### Dimensione por um modelo de processo
+## [VIII. ...](./)
+### ...
 
-## [IX. Descartabilidade](./disposability)
-### Maximizar a robustez com inicialização e desligamento rápido
+## [IX. ...](./)
+### ...
 
-## [X. Dev/prod semelhantes](./dev-prod-parity)
-### Mantenha o desenvolvimento, teste, produção o mais semelhante possível
+## [X. ...](./)
+### ...
 
-## [XI. Logs](./logs)
-### Trate logs como fluxo de eventos
+## [XI. ...](./)
+### ...
 
-## [XII. Processos de Admin](./admin-processes)
-### Executar tarefas de administração/gerenciamento como processos pontuais
+## [XII. ...](./)
+### ...

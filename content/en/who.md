@@ -1,4 +1,4 @@
 Who should read this document?
 ==============================
 
-Any developer building applications which run as a service.  Ops engineers who deploy or manage such applications.
+Any person building Design Systems which have Design Ops in mind. Frontend Engineers who deploy or manage such Design Systems.

@@ -1,38 +1,38 @@
-The Twelve Factors
+The Twelve Factors for Design
 ==================
 
-## [I. Codebase](./codebase)
-### One codebase tracked in revision control, many deploys
+## [I. ...](./)
+### ...
 
-## [II. Dependencies](./dependencies)
-### Explicitly declare and isolate dependencies
+## [II. ...](./)
+### ...
 
-## [III. Config](./config)
-### Store config in the environment
+## [III. ...](./)
+### ...
 
-## [IV. Backing services](./backing-services)
-### Treat backing services as attached resources
+## [IV. Backing services](./)
+### ...
 
-## [V. Build, release, run](./build-release-run)
-### Strictly separate build and run stages
+## [V. ...](./)
+### ...
 
-## [VI. Processes](./processes)
-### Execute the app as one or more stateless processes
+## [VI. ...](./)
+### ...
 
-## [VII. Port binding](./port-binding)
-### Export services via port binding
+## [VII. ...](./)
+### ...
 
-## [VIII. Concurrency](./concurrency)
-### Scale out via the process model
+## [VIII. ...](./)
+### ...
 
-## [IX. Disposability](./disposability)
-### Maximize robustness with fast startup and graceful shutdown
+## [IX. ...](./)
+### ...
 
-## [X. Dev/prod parity](./dev-prod-parity)
-### Keep development, staging, and production as similar as possible
+## [X. ...](./)
+### ...
 
-## [XI. Logs](./logs)
-### Treat logs as event streams
+## [XI. ...](./)
+### ...
 
-## [XII. Admin processes](./admin-processes)
-### Run admin/management tasks as one-off processes
+## [XII. ...](./)
+### ...
