@@ -28,7 +28,7 @@ Contributions from: ...
 
 Translations and edits by:
 ...
-and [more](https://github.com/heroku/12factor/graphs/contributors).
+and [more](https://github.comayr-ton/12factor4design/graphs/contributors).
 
 Released under the MIT License:
 https://opensource.org/licenses/MIT
