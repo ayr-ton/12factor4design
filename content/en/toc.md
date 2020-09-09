@@ -25,10 +25,10 @@ The Twelve Factors for Design
 ## [VIII. Tools & Infrastructure](./)
 ### ...
 
-## [IX. Governance](./)
+## [IX. Documentation](./)
 ### ...
 
-## [X. Communicate often](./)
+## [X. Governance](./)
 ### ...
 
 ## [XI. Delivery, Discovery and Understanding](./)
