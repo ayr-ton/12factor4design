@@ -1,38 +1,38 @@
 The Twelve Factors for Design
 ==================
 
-## [I. ...](./)
+## [I. High Quality Crafts](./)
 ### ...
 
-## [II. ...](./)
+## [II. High Quality Methods](./)
 ### ...
 
-## [III. ...](./)
+## [III. High Quality Processes](./)
 ### ...
 
-## [IV. ...](./)
+## [IV. Principles and Values](./)
 ### ...
 
-## [V. ...](./)
+## [V. Objective](./)
 ### ...
 
-## [VI. ...](./)
+## [VI. People](./)
 ### ...
 
-## [VII. ...](./)
+## [VII. Workflow](./)
 ### ...
 
-## [VIII. ...](./)
+## [VIII. Tools & Infrastructure](./)
 ### ...
 
-## [IX. ...](./)
+## [IX. Governance](./)
 ### ...
 
-## [X. ...](./)
+## [X. Communicate often](./)
 ### ...
 
-## [XI. ...](./)
+## [XI. Delivery, Discovery and Understanding](./)
 ### ...
 
-## [XII. ...](./)
+## [XII. Key Metrics](./)
 ### ...

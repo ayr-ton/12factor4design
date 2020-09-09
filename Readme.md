@@ -5,6 +5,8 @@ Source for the content app running at: https://12factor.design/
 
 Strongly inspired in https://12factor.net for DevOps
 
+Discussion at https://go.rocket.chat/invite?host=chat.ayrlabs.org&path=invite%2FHugJva and https://t.me/designopsbr
+
 Development
 -----------
 
